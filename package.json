@@ -1,0 +1,29 @@
+{
+  "name": "image-optimizer",
+  "version": "1.0.0",
+  "description": "This Node.js module allows you to transform image URLs from various platforms by automatically selecting the best image format based on the browser's capabilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinusRamok/Image-Optimizer.git"
+  },
+  "keywords": [
+    "Image",
+    "Webp",
+    "Avif",
+    "optimizer"
+  ],
+  "type": "module",
+  "author": "Sunil Kumar Dunna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LinusRamok/Image-Optimizer/issues"
+  },
+  "homepage": "https://github.com/LinusRamok/Image-Optimizer#readme",
+  "dependencies": {
+    "detect-browser": "^5.3.0"
+  }
+}
