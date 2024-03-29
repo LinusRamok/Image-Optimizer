@@ -1,6 +1,6 @@
 {
   "name": "image-format-optimizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This Node.js module allows you to transform image URLs from various platforms by automatically selecting the best image format based on the browser's capabilities.",
   "main": "index.js",
   "scripts": {
